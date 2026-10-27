@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updated by User 2
+=======
+Updated by User 1
+>>>>>>> 5ebb6b0 (Update line by User 1)
